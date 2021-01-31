@@ -1,11 +1,6 @@
 const help = (prefix) => {
 	return `
-「 *Toin BOT* 」
-
-◪ *informações*
-  ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : Toin
-  ❏ Como instalar o BOT: https://www.youtube.com/watch?v=4cjhlXo9aGo
+「 *BPG BOT* 」
 
 ◪ *SOBRE*
   │
